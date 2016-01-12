@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Cheaper Goods
+
+  Created by Andrew Kochulab on 24.04.15.
+  Copyright (c) 2015 Andrew Kochulab. All rights reserved.
+*/
+
+/* Navigation panel */
+"Home" = "Start";
+"Sales" = "Sprzedaż";
+"Stock" = "Akcje";
+"Stores" = "Sklepy";
+"Favorites" = "Ulubionych";
+"Feedback" = "Przegląd";
+
+/* Product categories */
+"allProducts" = "Wszystko";
+"computerProducts" = "Komputery";
+"tvProducts" = "Telewizja";
+"phoneProducts" = "Telefonia";
+"photoProducts" = "Foto-Wideo";
+"techProducts" = "Technic";
+
+/* Feedback */
+"FeedbackNameTitle" = "No name";
+"FeedbackNameMessage" = "Podaj swoją nazwę";
+"FeedbackTextTitle" = "Nie recenzja";
+"FeedbackTextMessage" = "Proszę wypełnić informację zwrotną";

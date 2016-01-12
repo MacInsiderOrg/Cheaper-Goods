@@ -1,0 +1,76 @@
+
+/**
+ * General page
+ */
+"Nss-TJ-F6V.title" = "Головна";
+
+/* nav items */
+"smb-aa-6zw.text" = "Знижки";
+"N93-em-ueN.text" = "Акції";
+"JbP-eh-drj.text" = "Магазини";
+"Sxr-Bv-c7G.text" = "Вибрані";
+"tBr-8Y-riV.text" = "Відгук";
+
+
+/**
+ * Sales page
+ */
+"pNC-EH-V3o.title" = "Знижки";
+"ssQ-S0-kPJ.text" = "Виберіть категорію";
+
+
+/**
+ * Stock page
+ */
+"eBT-9w-r2F.title" = "Акції";
+"1n0-1W-5pC.title" = "Акція";
+"Mrl-PX-pBd.text" = "Опис акції:";
+
+/**
+ * Stores page
+ */
+"vdI-MV-PFC.title" = "Магазини";
+//"q3R-PO-PV9.title" = "Знижки в магазині";
+
+"Dqb-n3-Kty.title" = "Філіали";
+
+/**
+ * Product page
+ */
+"UbK-Vr-BkE.text" = "Опис товару:";
+"qGB-Q0-Oip.text" = "Характеристики:";
+
+/* Images */
+"mrT-U7-TFO.title" = "Фотографії";
+"pJH-8Z-2Tf.title" = "Назад";
+
+/* Map */
+"n7d-EB-ug1.title" = "Магазин";
+"YfR-nU-sdO.title" = "Назад";
+"8qR-VC-YWk.text" = "Місце розташування:";
+"vCc-oV-uZ1.text" = "Час роботи:";
+
+
+/**
+ * Favorites page
+ */
+"P7y-OQ-XRI.title" = "Вибрані";
+
+
+
+
+/**
+ * Feedback page
+ */
+"V7k-qg-7w3.title" = "Відгук";
+
+"ur6-v5-W3q.text" = "Ваше ім'я:";
+"VED-SS-1IB.placeholder" = "Введіть Ваше ім'я";
+
+"KAu-rc-jQ0.text" = "Вміст відгуку:";
+"VU4-pL-z89.placeholder" = "Будь ласка введіть текст Вашого відгуку про аплікацію";
+
+"9Jk-pR-qRn.normalTitle" = "Відправити";
+"xJa-3g-ss3.text" = "Дякуємо Вам!";
+"NZt-BW-BLa.normalTitle" = "Повернутись на головну сторінку";
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D131" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cheaper Goods" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0EP-wa-4NA">
+                    <rect key="frame" x="40" y="160" width="400" height="65"/>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="400" id="756-yc-Ong"/>
+                        <constraint firstAttribute="width" constant="400" id="TW2-UB-OmB"/>
+                        <constraint firstAttribute="height" constant="65" id="mk5-Go-RNg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="STHeitiSC-Light" family="Heiti SC" pointSize="30"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Найкращі пропозиції для Вас!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZOp-mO-AUZ">
+                    <rect key="frame" x="11" y="241" width="459" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="459" id="J9M-z1-1qU"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.1058823529" green="0.5519349844789474" blue="0.43921568630000002" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="centerX" secondItem="ZOp-mO-AUZ" secondAttribute="centerX" id="8og-IT-ZTe"/>
+                <constraint firstItem="0EP-wa-4NA" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="40" id="GEf-iu-3AM"/>
+                <constraint firstItem="ZOp-mO-AUZ" firstAttribute="top" secondItem="0EP-wa-4NA" secondAttribute="bottom" constant="16" id="HRP-aM-kkU"/>
+                <constraint firstAttribute="trailing" secondItem="0EP-wa-4NA" secondAttribute="trailing" constant="40" id="QEi-r2-gO1"/>
+                <constraint firstItem="0EP-wa-4NA" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="160" id="cGt-HG-wfM"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,74 @@
+
+/**
+ * General page
+ */
+"Nss-TJ-F6V.title" = "Start";
+
+/* nav items */
+"smb-aa-6zw.text" = "Sprzedaż";
+"N93-em-ueN.text" = "Akcje";
+"JbP-eh-drj.text" = "Sklepy";
+"Sxr-Bv-c7G.text" = "Ulubionych";
+"tBr-8Y-riV.text" = "Przegląd";
+
+
+/**
+ * Sales page
+ */
+"pNC-EH-V3o.title" = "Sprzedaż";
+"ssQ-S0-kPJ.text" = "Wybierz kategorię";
+
+/**
+ * Stock page
+ */
+"eBT-9w-r2F.title" = "Discounts";
+"1n0-1W-5pC.title" = "Discount";
+
+"Mrl-PX-pBd.text" = "Description:";
+
+/**
+ * Stores page
+ */
+"vdI-MV-PFC.title" = "Sklepy";
+//"q3R-PO-PV9.title" = "Sprzedaż w sklepie";
+
+"Dqb-n3-Kty.title" = "Affiliates";
+
+/**
+ * Product page
+ */
+"UbK-Vr-BkE.text" = "Opis:";
+"qGB-Q0-Oip.text" = "Specyfikacja techniczna:";
+
+/* Images */
+"mrT-U7-TFO.title" = "Obrazy";
+"pJH-8Z-2Tf.title" = "Powrotem";
+
+/* Map */
+"n7d-EB-ug1.title" = "Sklep";
+"YfR-nU-sdO.title" = "Powrotem";
+"8qR-VC-YWk.text" = "Lokalizacja:";
+"vCc-oV-uZ1.text" = "Czas pracy:";
+
+
+/**
+ * Favorites page
+ */
+"P7y-OQ-XRI.title" = "Ulubionych";
+
+
+/**
+ * Feedback page
+ */
+"V7k-qg-7w3.title" = "Przegląd";
+
+"ur6-v5-W3q.text" = "Twoje imie:";
+"VED-SS-1IB.placeholder" = "Wpisz swoje imię;
+
+"KAu-rc-jQ0.text" = "Twoja opinia:";
+"VU4-pL-z89.placeholder" = "Proszę wpisać tekst opinii";
+
+"9Jk-pR-qRn.normalTitle" = "Wysłać";
+"xJa-3g-ss3.text" = "Dziękuję!";
+"NZt-BW-BLa.normalTitle" = "Powrót do strony głównej";
+

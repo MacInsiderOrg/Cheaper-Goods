@@ -1,0 +1,76 @@
+
+/**
+ * General page
+ */
+"Nss-TJ-F6V.title" = "Home";
+
+/* nav items */
+"smb-aa-6zw.text" = "Sales";
+"N93-em-ueN.text" = "Discounts";
+"JbP-eh-drj.text" = "Stores";
+"Sxr-Bv-c7G.text" = "Favorites";
+"tBr-8Y-riV.text" = "Feedback";
+
+
+/**
+ * Sales page
+ */
+"pNC-EH-V3o.title" = "Sales";
+"ssQ-S0-kPJ.text" = "Select a category";
+
+
+/**
+ * Stock page
+ */
+"eBT-9w-r2F.title" = "Discounts";
+"1n0-1W-5pC.title" = "Discount";
+"Mrl-PX-pBd.text" = "Description:";
+
+
+/**
+ * Stores page
+ */
+"vdI-MV-PFC.title" = "Stores";
+//"q3R-PO-PV9.title" = "Sales in store";
+
+"Dqb-n3-Kty.title" = "Affiliates";
+
+/**
+ * Product page
+ */
+"UbK-Vr-BkE.text" = "Description:";
+"qGB-Q0-Oip.text" = "Tech specs:";
+
+/* Images */
+"mrT-U7-TFO.title" = "Images";
+"pJH-8Z-2Tf.title" = "Back";
+
+/* Map */
+"n7d-EB-ug1.title" = "Store";
+"YfR-nU-sdO.title" = "Back";
+"8qR-VC-YWk.text" = "Location:";
+"vCc-oV-uZ1.text" = "Job time:";
+
+
+/**
+ * Favorites page
+ */
+"P7y-OQ-XRI.title" = "Favorites";
+
+
+/**
+ * Feedback page
+ */
+"V7k-qg-7w3.title" = "Feedback";
+
+"ur6-v5-W3q.text" = "Your name:";
+"VED-SS-1IB.placeholder" = "Enter your name";
+
+"KAu-rc-jQ0.text" = "Your review:";
+"VU4-pL-z89.placeholder" = "Please enter text of your review";
+
+"9Jk-pR-qRn.normalTitle" = "Send";
+"xJa-3g-ss3.text" = "Thank you!";
+"NZt-BW-BLa.normalTitle" = "Back to home page";
+
+

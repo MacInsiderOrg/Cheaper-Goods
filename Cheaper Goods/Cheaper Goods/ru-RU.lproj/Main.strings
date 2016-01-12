@@ -1,0 +1,75 @@
+
+/**
+ * General page
+ */
+"Nss-TJ-F6V.title" = "Главная";
+
+/* nav items */
+"smb-aa-6zw.text" = "Скидки";
+"N93-em-ueN.text" = "Акции";
+"JbP-eh-drj.text" = "Магазины";
+"Sxr-Bv-c7G.text" = "Выбранное";
+"tBr-8Y-riV.text" = "Отзыв";
+
+
+
+/**
+ * Sales page
+ */
+"pNC-EH-V3o.title" = "Скидки";
+"ssQ-S0-kPJ.text" = "Выберите категорию";
+
+
+/**
+ * Stock page
+ */
+"eBT-9w-r2F.title" = "Акции";
+"1n0-1W-5pC.title" = "Акция";
+"Mrl-PX-pBd.text" = "Описание акции:";
+
+/**
+ * Stores page
+ */
+"vdI-MV-PFC.title" = "Магазины";
+//"q3R-PO-PV9.title" = "Скидки в магазине";
+
+"Dqb-n3-Kty.title" = "Филиалы";
+
+/**
+ * Product page
+ */
+"UbK-Vr-BkE.text" = "Описание товара:";
+"qGB-Q0-Oip.text" = "Характеристики:";
+
+/* Images */
+"mrT-U7-TFO.title" = "Фотографии";
+"pJH-8Z-2Tf.title" = "Назад";
+
+/* Map */
+"n7d-EB-ug1.title" = "Магазин";
+"YfR-nU-sdO.title" = "Назад";
+"8qR-VC-YWk.text" = "Место нахождения:";
+"vCc-oV-uZ1.text" = "Время работы:";
+
+
+/**
+ * Favorites page
+ */
+"P7y-OQ-XRI.title" = "Выбранное";
+
+
+/**
+ * Feedback page
+ */
+"V7k-qg-7w3.title" = "Отзыв";
+
+"ur6-v5-W3q.text" = "Ваше имя:";
+"VED-SS-1IB.placeholder" = "Введите Ваше имя";
+
+"KAu-rc-jQ0.text" = "Ваш отзыв:";
+"VU4-pL-z89.placeholder" = "Пожалуйста введите текст Вашего отзыва про апликацию";
+
+"9Jk-pR-qRn.normalTitle" = "Отправить";
+"xJa-3g-ss3.text" = "Спасибо Вам!";
+"NZt-BW-BLa.normalTitle" = "Вернуться на главную страницу";
+

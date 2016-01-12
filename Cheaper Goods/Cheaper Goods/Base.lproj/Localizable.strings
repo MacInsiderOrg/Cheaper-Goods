@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Cheaper Goods
+
+  Created by Andrew Kochulab on 24.04.15.
+  Copyright (c) 2015 Andrew Kochulab. All rights reserved.
+*/
+
+/* Navigation panel */
+"Home" = "Головна";
+"Sales" = "Знижки";
+"Stock" = "Акції";
+"Stores" = "Магазини";
+"Favorites" = "Вибрані";
+"Feedback" = "Відгук";
+
+/* Product categories */
+"allProducts" = "Всі";
+"computerProducts" = "Комп'ютери";
+"tvProducts" = "Телевізори";
+"phoneProducts" = "Телефонія";
+"photoProducts" = "Фото-відео";
+"techProducts" = "Побутова техніка";
+
+/* Feedback */
+"FeedbackNameTitle" = "Ім'я відсутнє";
+"FeedbackNameMessage" = "Введіть будь ласка Ваше ім'я";
+"FeedbackTextTitle" = "Відгук відсутній";
+"FeedbackTextMessage" = "Будь ласка заповніть поле для відгуку";
